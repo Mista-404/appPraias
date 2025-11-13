@@ -13,7 +13,7 @@ return (
 {/* 1. Imagem do Topo */}
 <Image
 // O caminho da imagem conforme você especificou
-source={require('../../assets/images/praia.jpg')}
+source={require('../../assets/images/beach.jpg')}
 style={styles.headerImage}
 />
 {/* 2. Títulos */}
