@@ -21,7 +21,7 @@ title: 'Maragogi',
 {/* 2. Imagem Principal */}
 <Image
 // O caminho da pasta `app/` para `assets/` é apenas um nível (../)
-source={require('../assets/images/Maragogi.jpg')}
+source={require('../assets/images/Maragogi.webp')}
 style={styles.headerImage}
 />
 {/* 3. Conteúdo da Página */}
