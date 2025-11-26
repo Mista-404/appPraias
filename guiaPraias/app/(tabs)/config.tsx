@@ -84,6 +84,7 @@ setModalVisible(!isModalVisible);
 <View style={styles.modalContent}>
 <Text style={styles.modalText}>Desenvolvido por: Alan F. Silva</Text>
 <TouchableOpacity
+
 style={styles.modalCloseButton}
 onPress={() => setModalVisible(false)}
 >
